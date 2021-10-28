@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color: black;
+    height: 750px;
+    width: 700px;
+    margin: 30px auto ;
+}  
+
+header{
+    height: 13%;
+    background-color: rgb(227, 111, 230);
+    margin-bottom: 2%;
+    
+}
+
+main{
+    height: 80%;
+}
+.first{
+    height: 38%;
+    background-color: rgb(225, 216, 122);
+    margin-bottom: 2%;
+}
+.second{
+    height: 58%;
+    background-color: rgb(58, 132, 249);
+    margin-bottom: 2%;
+}
+
+footer{
+    height: 5%;
+    background-color: rgb(134, 0, 255);
+}
