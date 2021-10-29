@@ -28,8 +28,15 @@ main{
     background-color: rgb(58, 132, 249);
     margin-bottom: 1%;
     padding-bottom: 3%;
+    
 }
 
+.second::after{
+    content: "";
+    clear: both;
+    display: table;
+} 
+   
 footer{
     height: 5%;
     background-color: rgb(134, 0, 255);
